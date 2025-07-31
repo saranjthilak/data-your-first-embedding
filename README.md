@@ -31,3 +31,37 @@ The goal is to help beginners understand the fundamentals of:
 git clone https://github.com/saranjthilak/data-your-first-embedding.git
 cd data-your-first-embedding
 pip install -r requirements.txt
+```
+This will:
+
+Load a sample dataset.
+
+Generate text embeddings using a pre-trained model.
+
+Index them with FAISS.
+
+Reduce their dimensions using UMAP.
+
+Visualize them using matplotlib.
+
+## 🧰 Tools & Libraries Used
+Hugging Face Transformers – for generating embeddings
+
+FAISS – for fast similarity search
+
+UMAP – for dimensionality reduction
+
+Matplotlib – for plotting the embedding space
+
+## 📊 Example Output
+Example visualizations will be stored in the plots/ folder after running the script.
+
+📂 Project Structure
+```
+.
+├── embedding_demo.py      # Main script to run embedding generation and visualization
+├── data/                  # Sample text data
+├── plots/                 # Output visualizations
+├── requirements.txt       # Python dependencies
+└── README.md              # Project documentation
+```
