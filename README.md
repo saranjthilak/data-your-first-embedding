@@ -65,3 +65,17 @@ Example visualizations will be stored in the plots/ folder after running the scr
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
 ```
+📎 Resources
+Introduction to Embeddings
+
+Hugging Face Documentation
+
+FAISS Tutorial
+
+🧑‍💻 Author
+Saran J Thilak
+GitHub • LinkedIn
+
+📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+  
